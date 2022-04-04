@@ -5,6 +5,8 @@
 
 证书MD5:7456F65E98B49AFB201FB0F14EF6842F
 
+领创MDM(Linspirer MDM)版本:zijietiaodong_init_5.0.22
+
 ------
 
 有能力的大佬可以尝试破解一下。
