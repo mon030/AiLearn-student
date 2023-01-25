@@ -10,8 +10,8 @@
 ------
 
 
-***无需刷机即可在 领创 MDM (Linspirer MDM) 下网上冲浪方案 [S.U.C.](https://mbd.pub/o/bread/Y5yYkphs?discount_code=TJBOZN#) ***
-
+*** 无需刷机即可在 领创 MDM (Linspirer MDM) 下网上冲浪方案 [S.U.C.](https://mbd.pub/o/bread/Y5yYkphs?discount_code=TJBOZN#) ***
+原理：利用软件内置WebView的DEBUG功能跳转网页。
 ------
 
 
