@@ -9,9 +9,8 @@
 
 ------
 
-有能力的大佬可以尝试破解一下。
 
-***如果阁下有什么好的方法的话,欢迎您新建一个Issues来讨论。***
+***无需刷机即可在 领创 MDM (Linspirer MDM) 下网上冲浪方案 [S.U.C.](https://mbd.pub/o/bread/Y5yYkphs?discount_code=TJBOZN#) ***
 
 ------
 
